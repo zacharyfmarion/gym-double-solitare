@@ -1,0 +1,1 @@
+from gym_double_solitaire.envs.double_solitaire_env import DoubleSolitaireEnv
